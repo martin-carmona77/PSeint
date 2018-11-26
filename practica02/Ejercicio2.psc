@@ -3,7 +3,7 @@ Algoritmo sin_titulo
 	Leer A
 	C<-Cos(A)
 	S<-Sen(A)
-	T<-Atan(A)
+	T<-Sen(A)/Cos(A)
 	Escribir "Coseno: " , C
 	Escribir "Seno: " , S
 	Escribir "Tangente: " , T
